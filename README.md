@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskriti Srivastava</h1>
 <h3 align="center">A passionate developer and explorer.</h3>
 
-- 🌱 I’m currently learning **Machine learning, Artifical intelligence**
+- 🌱 I’m currently learning **Web Development, DSA**
 
 - 📝 I regularly write articles on [https://sanskritisrv.wordpress.com/2023/12/25/2023-endingalready/](https://sanskritisrv.wordpress.com/2023/12/25/2023-endingalready/)
 
